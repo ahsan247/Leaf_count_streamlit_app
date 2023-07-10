@@ -1,4 +1,4 @@
-pip install tensorflow==2.12.*
+
 import tensorflow as tf
 import time
 
